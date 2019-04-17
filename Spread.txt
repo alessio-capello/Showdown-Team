@@ -1,0 +1,234 @@
+Tsareena (F) @ Aguav Berry  
+Ability: Queenly Majesty  
+Level: 50  
+EVs: 228 HP / 124 Atk / 84 Def / 4 SpD / 68 Spe  
+Adamant Nature  
+- Feint  
+- Power Whip  
+- High Jump Kick  
+- Helping Hand
+//regge fire punch di groudon sotto sun, 108 atk ammazza kyogre 252 ps, supera i 130 bp spe sotto tw, i 16 in più in atk avanzavano, 228 hp ottimizza la baccona
+
+Kyogre @ Choice Scarf  
+Ability: Drizzle  
+Level: 50  
+EVs: 140 HP / 180 SpA / 188 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Ice Beam  
+- Thunder  
+- Origin Pulse  
+- Water Spout
+//regge moonblast a +2 di xern, 188 spe supera i 130 bp spe, il resto in spatk <--- meglio la classica 252/252/4 per outspeedare gli altri kyogre
+
+Tapu Lele @ Psychic Seed  
+Ability: Psychic Surge  
+Level: 50  
+EVs: 52 HP / 4 Def / 228 SpA / 4 SpD / 220 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Psyshock  
+- Moonblast  
+- Protect  
+- Taunt
+//a +1 di spDef regge moonblast di X a +2 e water spout di Kyogre modest, regge Y e Groudon e dopo snarl rimane 2HKO su Y di moonblast, 220 di spe per superare Kyogre modest max spe
+
+--------------------------------------------------------------
+MOON SERIES
+--------------------------------------------------------------
+
+Groudon @ Groundium Z  
+Ability: Drought  
+Level: 50  
+EVs: 196 HP / 60 Atk / 4 Def / 244 SpD / 4 Spe  
+Careful Nature  
+- Precipice Blades  
+- Fire Punch  
+- Protect  
+- Swords Dance
+
+//regge moonblast di Xerneas timid a +2, shotta inci di Z a -1, sotto sole venusaur di fire punch (roll) o di Z (sempre), regge power whip di tsareena adamant 252, shotta kyogre a +0 di Z e prende 50% da water spout sotto sole, shotta amoonguss di Z (roll basso 18% sul 252/76), regge kartana jolly 252, regge la Z di lunala e sì, fa anche il caffè
+
+Tapu Fini @ Choice Specs  
+Ability: Misty Surge  
+Level: 50  
+EVs: 236 HP / 4 Def / 156 SpA / 108 SpD / 4 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Scald  
+- Grass Knot  
+- Ice Beam  
+- Moonblast
+
+//4 Atk Kartana Leaf Blade vs. 236 HP / 4 Def Tapu Fini: 152-180 (86.8 - 102.8%) -- 12.5% chance to OHKO
++2 148 SpA Fairy Aura Xerneas Moonblast vs. 236 HP / 108 SpD Tapu Fini: 147-174 (84 - 99.4%) -- guaranteed 2HKO
+252+ SpA Kyogre Water Spout (150 BP) vs. 236 HP / 108 SpD Tapu Fini in Rain: 64-76 (36.5 - 43.4%) -- guaranteed 3HKO
+252 SpA Tapu Koko Thunderbolt vs. 236 HP / 108 SpD Tapu Fini in Electric Terrain: 138-164 (78.8 - 93.7%) -- guaranteed 2HKO
+252 SpA Lunala Menacing Moonraze Maelstrom vs. 236 HP / 108 SpD Tapu Fini: 130-154 (74.2 - 88%) -- guaranteed 2HKO
+156+ SpA Choice Specs Tapu Fini Scald vs. 236 HP / 236+ SpD Incineroar in Rain: 198-234 (99 - 117%) -- 93.8% chance to OHKO
+156+ SpA Choice Specs Tapu Fini Scald vs. 252 HP / 4 SpD Stakataka: 168-198 (100 - 117.8%) -- guaranteed OHKO
+156+ SpA Choice Specs Tapu Fini Moonblast vs. 180 HP / 116+ SpD Assault Vest Yveltal: 110-132 (49.1 - 58.9%) -- 98.4% chance to 2HKO
+156+ SpA Choice Specs Tapu Fini Scald vs. 252 HP / 252+ SpD Groudon in Rain: 198-234 (95.6 - 113%) -- 68.8% chance to OHKO
+156+ SpA Choice Specs Tapu Fini Ice Beam vs. 236 HP / 180+ SpD Amoonguss: 112-134 (51.1 - 61.1%) -- guaranteed 2HKO after Figy Berry recovery
+156+ SpA Choice Specs Tapu Fini Grass Knot (120 BP) vs. 252 HP / 0 SpD Groudon: 182-216 (87.9 - 104.3%) -- 25% chance to OHKO
+evitare tsareena e toxicroak
+4 in speed per outspeedare kyogre timid 252 a -1
+
+Landorus-Therian (M) @ Safety Goggles  
+Ability: Intimidate  
+Level: 50  
+EVs: 132 HP / 4 Def / 140 SpA / 4 SpD / 228 Spe  
+Modest Nature  
+- Grass Knot  
+- Earth Power  
+- U-turn  
+- Protect
+
+//più veloce di un punto di smeargle
+140+ SpA Landorus-T Grass Knot (120 BP) vs. 252 HP / 252+ SpD Groudon: 92-110 (44.4 - 53.1%) -- 24.2% chance to 2HKO
+252+ SpA Venusaur Grass Knot (80 BP) vs. 132 HP / 4 SpD Landorus-T: 76-90 (41.9 - 49.7%) -- guaranteed 3HKO
+-1 252+ Atk Groudon Fire Punch vs. 132 HP / 4 Def Landorus-T in Sun: 58-69 (32 - 38.1%) -- 95.9% chance to 3HKO
+140+ SpA Landorus-T Earth Power vs. 236 HP / 236+ SpD Incineroar: 104-126 (52 - 63%) -- guaranteed 2HKO
+140+ SpA Landorus-T Earth Power vs. 4 HP / 0 SpD Venusaur: 67-79 (42.9 - 50.6%) -- 1.6% chance to 2HKO
+140+ SpA Landorus-T Earth Power vs. 4 HP / 252 SpD Assault Vest Kartana: 66-78 (48.8 - 57.7%) -- 93.8% chance to 2HKO
+-1 252 Atk Kartana Leaf Blade vs. 132 HP / 4 Def Landorus-T: 72-85 (39.7 - 46.9%) -- guaranteed 3HKO
+
+--------------------------------------------------------------
+ULTRA SERIES
+--------------------------------------------------------------
+
+Groudon-Primal @ Red Orb  
+Ability: Desolate Land  
+Level: 50  
+EVs: 252 HP / 100 Atk / 4 Def / 140 SpD / 12 Spe  
+Adamant Nature  
+- Precipice Blades  
+- Fire Punch  
+- Swords Dance  
+- Protect
+
+//252+ SpA Primal Groudon Earth Power vs. 252 HP / 140 SpD Primal Groudon: 176-210 (85 - 101.4%) -- 6.3% chance to OHKO
+252 Atk Mega Rayquaza Dragon Ascent vs. 252 HP / 4 Def Primal Groudon: 87-103 (42 - 49.7%) -- guaranteed 3HKO
++2 252 SpA Fairy Aura Xerneas Dazzling Gleam vs. 252 HP / 140 SpD Primal Groudon: 63-75 (30.4 - 36.2%) -- 53.2% chance to 3HKO
++1 100+ Atk Primal Groudon Precipice Blades vs. 4 HP / 0 Def Primal Kyogre: 160-190 (90.9 - 107.9%) -- 50% chance to OHKO
+
+Xerneas @ Power Herb  
+Ability: Fairy Aura  
+Level: 50  
+Shiny: Yes  
+EVs: 52 HP / 4 Def / 180 SpA / 20 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Moonblast  
+- Dazzling Gleam  
+- Geomancy  
+- Protect
+
+//252+ SpA Primal Groudon Eruption (150 BP) vs. 52 HP / 20 SpD Xerneas in Harsh Sun: 175-207 (84.1 - 99.5%) -- guaranteed 2HKO
+252 Atk Life Orb Mega Rayquaza Dragon Ascent vs. 52 HP / 4 Def Xerneas: 175-208 (84.1 - 100%) -- 6.3% chance to OHKO
+
+Togekiss (F) @ Flyinium Z  
+Ability: Serene Grace  
+Level: 50  
+Shiny: Yes  
+EVs: 244 HP / 4 Def / 156 SpA / 100 SpD / 4 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Air Slash  
+- Follow Me  
+- Tailwind  
+- Protect
+
+//252 SpA Ultra Necrozma Light That Burns the Sky vs. 244 HP / 100+ SpD Togekiss: 153-180 (80.1 - 94.2%) -- guaranteed 2HKO
++2 252 SpA Fairy Aura Xerneas Moonblast vs. 244 HP / 100+ SpD Togekiss: 160-190 (83.7 - 99.4%) -- guaranteed 2HKO
+252+ SpA Primal Kyogre Water Spout (150 BP) vs. 244 HP / 100+ SpD Togekiss in Heavy Rain: 150-177 (78.5 - 92.6%) -- guaranteed 2HKO
+
+Boeing (Togekiss) (F) @ Iapapa Berry  
+Ability: Serene Grace  
+Level: 50  
+Shiny: Yes  
+EVs: 252 HP / 148 Def / 4 SpA / 100 SpD / 4 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Air Slash  
+- Follow Me  
+- Tailwind  
+- Encore
+
+//+2 252 SpA Fairy Aura Xerneas Moonblast vs. 252 HP / 100+ SpD Togekiss: 160-190 (83.3 - 98.9%) -- guaranteed 2HKO after Figy Berry recovery
+-1 252+ Atk Primal Groudon Fire Punch vs. 252 HP / 148 Def Togekiss in Harsh Sun: 81-96 (42.1 - 50%) -- 0.4% chance to 2HKO after Figy Berry recovery
+252 SpA Ultra Necrozma Light That Burns the Sky vs. 252 HP / 100+ SpD Togekiss: 153-180 (79.6 - 93.7%) -- guaranteed 2HKO after Figy Berry recovery
+
+Sempre lui (Incineroar) @ Incinium Z  
+Ability: Intimidate  
+Level: 50  
+EVs: 252 HP / 180 Atk / 4 Def / 44 SpD / 28 Spe  
+Adamant Nature  
+- Fake Out  
+- Flare Blitz  
+- U-turn  
+- Darkest Lariat
+
+//252 SpA Primal Groudon Earth Power vs. 252 HP / 44 SpD Incineroar: 176-210 (87.1 - 103.9%) -- 18.8% chance to OHKO
++2 252 SpA Fairy Aura Xerneas Dazzling Gleam vs. 252 HP / 44 SpD Incineroar: 142-168 (70.2 - 83.1%) -- guaranteed 2HKO
+-1 180+ Atk Incineroar Malicious Moonsault vs. 244 HP / 0 Def Bronzong: 170-204 (98.2 - 117.9%) -- 93.8% chance to OHKO
+-1 180+ Atk Incineroar Malicious Moonsault vs. 4 HP / 0 Def Shadow Shield Lunala: 216-254 (101.4 - 119.2%) -- guaranteed OHKO
+
+Topastro (Togedemaru) @ Assault Vest  
+Ability: Lightning Rod  
+Level: 50  
+EVs: 84 HP / 52 Atk / 4 Def / 116 SpD / 252 Spe  
+Jolly Nature  
+- Zing Zap  
+- Fake Out  
+- Iron Head  
+- U-turn
+//-1 252+ Atk Parental Bond Mega Kangaskhan Double-Edge vs. 84 HP / 4 Def Togedemaru: 65-78 (43 - 51.6%) -- 3.8% chance to 2HKO
+-1 252 Atk Kartana Sacred Sword vs. 84 HP / 4 Def Togedemaru: 126-150 (83.4 - 99.3%) -- guaranteed 2HKO
+52 Atk Togedemaru Iron Head vs. 4 HP / 0 Def Xerneas: 102-120 (50.4 - 59.4%) -- guaranteed 2HKO
+-1 52 Atk Togedemaru Iron Head vs. 4 HP / 0 Def Xerneas: 66-80 (32.6 - 39.6%) -- 99.8% chance to 3HKO
+52 Atk Togedemaru Zing Zap vs. 4 HP / 0 Def Primal Kyogre: 104-126 (59 - 71.5%) -- guaranteed 2HKO
+252 Atk Life Orb Mega Rayquaza Dragon Ascent vs. 84 HP / 4 Def Togedemaru: 60-71 (39.7 - 47%) -- guaranteed 3HKO
++2 252 SpA Fairy Aura Xerneas Dazzling Gleam vs. 84 HP / 116 SpD Assault Vest Togedemaru: 51-60 (33.7 - 39.7%) -- guaranteed 3HKO
++2 252 SpA Fairy Aura Xerneas Moonblast vs. 84 HP / 116 SpD Assault Vest Togedemaru: 80-95 (52.9 - 62.9%) -- guaranteed 2HKO
+Regge DG + MB di Xerneas 252 nell'83.75% dei casi
+44+ SpA Primal Kyogre Water Spout (150 BP) vs. 84 HP / 116 SpD Assault Vest Togedemaru in Heavy Rain: 133-157 (88 - 103.9%) -- 25% chance to OHKO
+
+Tapu Grosso (Tapu Fini) @ Wiki Berry  
+Ability: Misty Surge  
+Level: 50  
+EVs: 244 HP / 36 Def / 4 SpA / 172 SpD / 52 Spe  
+Calm Nature  
+IVs: 0 Atk  
+- Icy Wind  
+- Nature's Madness  
+- Haze  
+- Moonblast
+//+2 252+ SpA Fairy Aura Xerneas Moonblast vs. 244 HP / 172+ SpD Tapu Fini: 151-178 (85.7 - 101.1%) -- 6.3% chance to OHKO
+-1 252+ Atk Primal Groudon Precipice Blades vs. 244 HP / 36 Def Tapu Fini: 61-73 (34.6 - 41.4%) -- guaranteed 3HKO
+252+ Atk Stakataka Gyro Ball (87 BP) vs. 244 HP / 36 Def Tapu Fini: 70-84 (39.7 - 47.7%) -- guaranteed 3HKO
+252 SpA Tapu Koko Gigavolt Havoc (175 BP) vs. 244 HP / 172+ SpD Tapu Fini: 152-182 (86.3 - 103.4%) -- 25% chance to OHKO
+52 Spe outspeeda i Primal con 4 Spe
+
+Balena blu (Kyogre-Primal) @ Blue Orb  
+Ability: Primordial Sea  
+Level: 50  
+EVs: 252 HP / 28 Def / 124 SpA / 4 SpD / 100 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Water Spout  
+- Scald  
+- Ice Beam  
+- Protect
+//252 Atk Landorus-T Tectonic Rage (180 BP) vs. 252 HP / 28 Def Primal Kyogre: 175-207 (84.5 - 100%) -- 6.3% chance to OHKO
+124+ SpA Primal Kyogre Scald vs. 252 HP / 4 SpD Stakataka: 176-210 (104.7 - 125%) -- guaranteed OHKO
+0 SpA Amoonguss Grass Knot (120 BP) vs. 252 HP / 4 SpD Primal Kyogre: 80-96 (38.6 - 46.3%) -- guaranteed 3HKO
+-1 252 Atk Mega Rayquaza Dragon Ascent vs. 252 HP / 28 Def Primal Kyogre: 93-109 (44.9 - 52.6%) -- 22.3% chance to 2HKO
+252 SpA Mega Manectric Volt Switch vs. 252 HP / 4 SpD Primal Kyogre: 84-98 (40.5 - 47.3%) -- guaranteed 3HKO
+252 Atk Ferrothorn Power Whip vs. 252 HP / 28 Def Primal Kyogre: 174-206 (84 - 99.5%) -- guaranteed 2HKO
+124+ SpA Primal Kyogre Ice Beam vs. 236 HP / 180+ SpD Amoonguss: 120-142 (54.7 - 64.8%) -- guaranteed 2HKO after Figy Berry recovery
+124+ SpA Primal Kyogre Scald vs. 0 HP / 4 SpD Mega Gengar in Heavy Rain: 138-163 (102.2 - 120.7%) -- guaranteed OHKO
+124+ SpA Primal Kyogre Scald vs. 244 HP / 188+ SpD Bronzong in Heavy Rain: 93-109 (53.7 - 63%) -- guaranteed 2HKO
+124+ SpA Primal Kyogre Water Spout (150 BP) vs. 4 HP / 0 SpD Mega Kangaskhan in Heavy Rain: 187-222 (103.3 - 122.6%) -- guaranteed OHKO
+100 Spe outspeeda M-Rayquaza a -1 di Spe
+
