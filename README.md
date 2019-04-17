@@ -1,2 +1,2 @@
 # Showdown-Team
-ETT of mine team on pokemon showdown
+ETT of teams on pokemon showdown
