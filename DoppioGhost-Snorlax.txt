@@ -1,15 +1,4 @@
-Xerneas @ Power Herb  
-Ability: Fairy Aura  
-Level: 50  
-EVs: 4 HP / 252 SpA / 252 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Moonblast  
-- Dazzling Gleam  
-- Geomancy  
-- Protect  
-
-Tapu Koko @ Choice Band  
+Tapu Koko @ Life Orb  
 Ability: Electric Surge  
 Level: 50  
 EVs: 4 HP / 252 Atk / 252 Spe  
@@ -17,7 +6,7 @@ Jolly Nature
 - Wild Charge  
 - Brave Bird  
 - U-turn  
-- Sky Drop  
+- Protect  
 
 Banette-Mega @ Banettite  
 Ability: Frisk  
@@ -30,14 +19,14 @@ IVs: 0 Spe
 - Taunt  
 - Destiny Bond  
 
-Giratina-Origin @ Griseous Orb  
+Bruco Gianluco (Giratina-Origin) @ Griseous Orb  
 Ability: Levitate  
 Level: 50  
 Shiny: Yes  
 EVs: 252 HP / 84 Atk / 172 SpD  
 Careful Nature  
 - Shadow Force  
-- Earth Power  
+- Draco Meteor  
 - Tailwind  
 - Protect  
 
@@ -63,4 +52,14 @@ IVs: 0 Spe
 - High Horsepower  
 - Belly Drum  
 - Recycle  
+
+Groudon-Primal @ Red Orb  
+Ability: Desolate Land  
+Level: 50  
+EVs: 252 HP / 188 Atk / 4 Def / 60 SpD / 4 Spe  
+Adamant Nature  
+- Precipice Blades  
+- Fire Punch  
+- Swords Dance  
+- Protect  
 
