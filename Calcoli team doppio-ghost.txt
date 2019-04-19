@@ -1,0 +1,168 @@
+--------------------------------------------------------------
+-----	Tapu koko
+--------------------------------------------------------------
+
+Tapu Koko @ Life Orb  
+Ability: Electric Surge  
+Level: 50  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Jolly Nature  
+- Wild Charge  
+- Brave Bird  
+- U-turn  
+- Protect
+
+~~~~~~~~~~~~~~~~~~~~~~~~	Yveltal Bulky
+
+252 Atk Life Orb Tapu Koko Wild Charge vs. 252 HP / 252 Def Yveltal in Electric Terrain: 226-268 (96.9 - 115%) -- 87.5% chance to OHKO
+
+~~~~~~~~~~~~~~~~~~~~~~~~	Kyogre Bulky
+
+252 Atk Life Orb Tapu Koko Wild Charge vs. 252 HP / 252 Def Primal Kyogre in Electric Terrain: 234-276 (113 - 133.3%) -- guaranteed OHKO
+
+~~~~~~~~~~~~~~~~~~~~~~~~	Amoongus Bulky
+
+252 Atk Life Orb Tapu Koko Brave Bird vs. 236 HP / 76 Def Amoonguss: 198-234 (90.4 - 106.8%) -- 37.5% chance to OHKO
+
+~~~~~~~~~~~~~~~~~~~~~~~~	Tapu Lele
+
+252 Atk Life Orb Tapu Koko U-turn vs. 4 HP / 0 Def Tapu Lele: 61-73 (41.7 - 50%) -- 0.4% chance to 2HKO
+
+~~~~~~~~~~~~~~~~~~~~~~~~	Tapu Fini
+
+252 Atk Life Orb Tapu Koko Wild Charge vs. 252 HP / 60 Def Tapu Fini: 156-187 (88.1 - 105.6%) -- 31.3% chance to OHKO
+
+
+--------------------------------------------------------------
+-----	Nihilego
+--------------------------------------------------------------
+
+Nihilego @ Rockium Z  
+Ability: Beast Boost  
+Level: 50  
+EVs: 4 HP / 252 SpA / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Power Gem  
+- Sludge Bomb  
+- Substitute  
+- Protect
+
+~~~~~~~~~~~~~~~~~~~~~~~~	Incineroar AV
+252 SpA Nihilego Continental Crush (160 BP) vs. 244 HP / 140+ SpD Assault Vest Incineroar: 156-186 (77.6 - 92.5%) -- guaranteed 2HKO
+
+252 SpA Nihilego Power Gem vs. 244 HP / 140+ SpD Assault Vest Incineroar: 80-96 (39.8 - 47.7%) -- guaranteed 3HKO
+
+~~~~~~~~~~~~~~~~~~~~~~~~	Incineroar Z
+
+252 SpA Nihilego Continental Crush (160 BP) vs. 252 HP / 44 SpD Incineroar: 278-330 (137.6 - 163.3%) -- guaranteed OHKO
+
+252 SpA Nihilego Power Gem vs. 252 HP / 44 SpD Incineroar: 140-168 (69.3 - 83.1%) -- guaranteed 2HKO
+
+~~~~~~~~~~~~~~~~~~~~~~~~	Xerneas Bulkless
+
+252 SpA Nihilego Sludge Bomb vs. 4 HP / 0 SpD Xerneas: 156-186 (77.2 - 92%) -- guaranteed 2HKO
+
+252 SpA Fairy Aura Xerneas Moonblast vs. 4 HP / 0 SpD Nihilego: 43-51 (23.2 - 27.5%) -- 80.8% chance to 4HKO
+
+~~~~~~~~~~~~~~~~~~~~~~~~	Xerneas Bulkless post setup
+
+252 SpA Nihilego Sludge Bomb vs. +2 4 HP / 0 SpD Xerneas: 80-96 (39.6 - 47.5%) -- guaranteed 3HKO
+
++2 252 SpA Fairy Aura Xerneas Moonblast vs. 4 HP / 0 SpD Nihilego: 86-102 (46.4 - 55.1%) -- 64.5% chance to 2HKO
+
+~~~~~~~~~~~~~~~~~~~~~~~~	Xerneas Bulky
+
+252 SpA Nihilego Sludge Bomb vs. 252 HP / 4 SpD Xerneas: 152-182 (65.2 - 78.1%) -- guaranteed 2HKO
+
+84+ SpA Fairy Aura Xerneas Moonblast vs. 4 HP / 0 SpD Nihilego: 42-50 (22.7 - 27%) -- 36.1% chance to 4HKO
+
+~~~~~~~~~~~~~~~~~~~~~~~~	Xerneas Bulky post setup
+
+252 SpA Nihilego Sludge Bomb vs. +2 252 HP / 4 SpD Xerneas: 78-92 (33.4 - 39.4%) -- guaranteed 3HKO
+
++2 84+ SpA Fairy Aura Xerneas Moonblast vs. 4 HP / 0 SpD Nihilego: 84-99 (45.4 - 53.5%) -- 32.4% chance to 2HKO
+
+
+--------------------------------------------------------------
+-----	Giratina-O
+--------------------------------------------------------------
+
+Giratina-Origin @ Griseous Orb  
+Ability: Levitate  
+Level: 50  
+Shiny: Yes  
+EVs: 252 HP / 84 Atk / 172 SpD  
+Careful Nature  
+- Shadow Force  
+- Earth Power  
+- Tailwind  
+- Protect
+
+~~~~~~~~~~~~~~~~~~~~~~~~	Lunala
+
+84+ Atk Griseous Orb Giratina-O Shadow Force vs. 4 HP / 0 Def Shadow Shield Lunala: 248-294 (116.4 - 138%) -- guaranteed OHKO
+
+252 SpA Lunala Moongeist Beam vs. 252 HP / 172 SpD Giratina-O: 152-180 (59.1 - 70%) -- guaranteed 2HKO
+
+252 SpA Lunala Menacing Moonraze Maelstrom vs. 252 HP / 172 SpD Giratina-O: 302-356 (117.5 - 138.5%) -- guaranteed OHKO
+
+252 SpA Lunala Psyshock vs. 252 HP / 0 Def Giratina-O: 72-85 (28 - 33%) -- guaranteed 4HKO
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~	Necrozma Dawn-Wings
+
+84+ Atk Griseous Orb Giratina-O Shadow Force vs. 4 HP / 0 Def Prism Armor Necrozma-Dawn-Wings: 315-372 (182 - 215%) -- guaranteed OHKO
+
+252 SpA Necrozma-Dawn-Wings Photon Geyser vs. 252 HP / 172 SpD Giratina-O: 84-99 (32.6 - 38.5%) -- 97.9% chance to 3HKO
+
+252 SpA Necrozma-Dawn-Wings Moongeist Beam vs. 252 HP / 172 SpD Giratina-O: 168-198 (65.3 - 77%) -- guaranteed 2HKO
+
+252 SpA Necrozma-Dawn-Wings Light That Burns the Sky vs. 252 HP / 172 SpD Giratina-O: 166-196 (64.5 - 76.2%) -- guaranteed 2HKO
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~	Necrozma Dusk-Mane
+
+84+ Atk Griseous Orb Giratina-O Shadow Force vs. 4 HP / 0 Def Prism Armor Necrozma-Dusk-Mane: 139-163 (80.3 - 94.2%) -- guaranteed 2HKO
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~	Primal-Goudon
+
+0- SpA Griseous Orb Giratina-O Earth Power vs. 252 HP / 60 SpD Primal Groudon: 88-104 (42.5 - 50.2%) -- 0.4% chance to 2HKO
+
+196+ Atk Primal Groudon Fire Punch vs. 252 HP / 0 Def Giratina-O in Harsh Sun: 65-77 (25.2 - 29.9%) -- guaranteed 4HKO
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~	Primal-Kyogre bulky def
+
+84+ Atk Griseous Orb Giratina-O Shadow Force vs. 252 HP / 252 Def Primal Kyogre: 96-114 (46.3 - 55%) -- 62.5% chance to 2HKO
+
+4+ SpA Primal Kyogre Ice Beam vs. 252 HP / 172 SpD Giratina-O: 106-126 (41.2 - 49%) -- guaranteed 3HKO
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~	Primal-Kyogre bulkless
+
+84+ Atk Griseous Orb Giratina-O Shadow Force vs. 4 HP / 0 Def Primal Kyogre: 123-145 (69.8 - 82.3%) -- guaranteed 2HKO
+
+252+ SpA Primal Kyogre Ice Beam vs. 252 HP / 172 SpD Giratina-O: 124-146 (48.2 - 56.8%) -- 86.3% chance to 2HKO
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~	Tapu Lele
+
+84+ Atk Griseous Orb Giratina-O Shadow Force vs. 4 HP / 0 Def Tapu Lele: 284-336 (194.5 - 230.1%) -- guaranteed OHKO
+
+252 SpA Tapu Lele Moonblast vs. 252 HP / 172 SpD Giratina-O: 138-164 (53.6 - 63.8%) -- guaranteed 2HKO
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~	Xerneas bulkless
+
+84+ Atk Griseous Orb Giratina-O Shadow Force vs. 4 HP / 0 Def Xerneas: 118-139 (58.4 - 68.8%) -- guaranteed 2HKO
+
+252 SpA Fairy Aura Xerneas Moonblast vs. 252 HP / 172 SpD Giratina-O: 186-218 (72.3 - 84.8%) -- guaranteed 2HKO
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~	Xerneas bulkless post setup
+
++2 252 SpA Fairy Aura Xerneas Dazzling Gleam vs. 252 HP / 172 SpD Giratina-O: 230-272 (89.4 - 105.8%) -- 37.5% chance to OHKO
+
+
