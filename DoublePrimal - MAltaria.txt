@@ -1,0 +1,64 @@
+Altaria @ Altarianite  
+Ability: Cloud Nine  
+Level: 50  
+EVs: 252 HP / 196 Atk / 60 Spe  
+Adamant Nature  
+- Return  
+- Draco Meteor  
+- Tailwind  
+- Protect  
+
+Groudon-Primal @ Red Orb  
+Ability: Desolate Land  
+Level: 50  
+EVs: 252 HP / 196 Atk / 60 SpD  
+Adamant Nature  
+- Precipice Blades  
+- Fire Punch  
+- Swords Dance  
+- Protect  
+
+Kyogre-Primal @ Blue Orb  
+Ability: Primordial Sea  
+Level: 50  
+EVs: 252 HP / 252 SpA / 4 SpD  
+Modest Nature  
+IVs: 0 Atk  
+- Scald  
+- Thunder  
+- Ice Beam  
+- Protect  
+
+Bronzong @ Mental Herb  
+Ability: Levitate  
+Level: 50  
+EVs: 252 HP / 4 Atk / 252 SpD  
+Sassy Nature  
+IVs: 0 Spe  
+- Gyro Ball  
+- Ally Switch  
+- Trick Room  
+- Skill Swap  
+
+Stakataka @ Rockium Z  
+Ability: Beast Boost  
+Level: 50  
+EVs: 244 HP / 252 Atk / 12 SpD  
+Brave Nature  
+IVs: 0 Spe  
+- Earthquake  
+- Rock Slide  
+- Gyro Ball  
+- Protect  
+
+Tapu Lele @ Choice Scarf  
+Ability: Psychic Surge  
+Level: 50  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Psyshock  
+- Moonblast  
+- Dazzling Gleam  
+- Magic Room  
+
